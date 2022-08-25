@@ -28,7 +28,13 @@ h3 {
   text-transform: uppercase;
   padding: 0;
 }
-
+#cum {
+  color: #ffffff;
+  text-decoration: none;
+}
+#cum:hover {
+  color: #5673d3;
+}
 a {
   color: #000000;
   text-decoration: none;
