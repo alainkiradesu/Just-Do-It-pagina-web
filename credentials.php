@@ -1,9 +1,9 @@
 <?php
 
-$user= 'news';
-$password = '22715439';
+$user= 'id19508684_subemail';
+$password = '~llbFNpsJ/erVx9q';
 $host = 'localhost';
-$dbase = 'news';
+$dbase = 'id19508684_subsemails';
 $table = 'subs';
 
 // coneection to the database
